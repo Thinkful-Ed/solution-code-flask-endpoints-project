@@ -29,9 +29,9 @@ This project showcases a simple Flask-based Sentiment Analysis API leveraging th
      ```shell
      .\flask_endpoints_project_env\Scripts\activate
      ```
-5. Install the required packages:
+5. Install the required packages (Flask should be in the `requirements.txt`):
    ```shell
-   pip install Flask TextBlob
+   pip install -r requirements.txt
    ```
 6. To run the Sentiment Analysis API:
    ```shell
