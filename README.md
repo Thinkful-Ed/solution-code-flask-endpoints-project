@@ -14,7 +14,7 @@ This project showcases a simple Flask-based Sentiment Analysis API leveraging th
 3. Set up a virtual environment:
    * On macOS and Linux:
      ```shell
-     python3 -m venv flask_endpoints_project_env
+     python -m venv flask_endpoints_project_env
      ```
    * On Windows:
      ```shell
